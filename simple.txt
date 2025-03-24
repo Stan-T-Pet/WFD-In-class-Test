@@ -1,0 +1,2 @@
+1) mkdir [proj name]
+2) django-admin startproject mysite [proj name]
